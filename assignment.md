@@ -21,11 +21,11 @@ The Kotlin assignment has one component:
 > ##### fun printWeaponName() {
 > ##### if (weapon != null) {
 > ##### println(weapon.name)
-> #####}
-> #####} }
-> #####fun main() {
-> #####Player().printWeaponName()
-> #####}
+> ##### }
+> ##### } }
+> ##### fun main() {
+> ##### Player().printWeaponName()
+> ##### }
 
 ### Q1 = what dose Race Conditions mean
 ###
