@@ -28,14 +28,10 @@ The Kotlin assignment has one component:
 > ##### }
 
 ### Q1 = what dose Race Conditions mean
-###
-###
-###
+###a race condition is a condition 
+ a condition of a program where its behavior depends on relative 
+timing or interleaving of multiple threads or processes
 ### Q2 = is there any Race Conditions in the code
-###
-###
-###
+yes in printWeaponName 
 ### Q3 = what's the best way to solve the compiling error in the code using scopeFunction
-###
-###
-###
+use let and run 
