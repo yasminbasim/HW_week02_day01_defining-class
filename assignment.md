@@ -34,4 +34,4 @@ timing or interleaving of multiple threads or processes
 ### Q2 = is there any Race Conditions in the code
 yes in printWeaponName 
 ### Q3 = what's the best way to solve the compiling error in the code using scopeFunction
-use let and run 
+use let and run scopefunction

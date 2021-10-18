@@ -1,27 +1,25 @@
 # Kotlin Programming
-fun main() {
+ffun main() {
     val ss = stu1("yasmin", 23, 12.9)
-    stu1.speak()
-    stu1.add(22, 1)
+
+    stu1.speak("")
+    stu1.add(11,14)
+
 }
 
-class stu1(var name1:String,var age:Int,var GPA:Double) {
-
+class stu1(private var name1: String, var age: Int, var GPA: Double) {
     fun speak() {
-        fun speak() {
-            println("my Name $name1 and my age $age and my $GPA GPA")
-        }
 
-
+        println("my  $name1\n and my  $age\n and my $GPA \n")
     }
+
     fun add(n1: Int, n2: Int): Int {
-        n1 + n2
+        return n1 + n2
 
     }
 
 
+}
 
-    ## Learning Objectives ✨
-- defining class
-## Getting started 
-Open the [assignment.md](assignment.md) file to get started.
+
+
